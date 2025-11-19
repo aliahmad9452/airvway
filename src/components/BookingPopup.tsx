@@ -110,7 +110,7 @@ export default function BookingPopup({ isOpen, onClose, flightData }: BookingPop
         <div className="bg-gray-50 px-4 md:px-6 py-3 md:py-4 rounded-b-2xl">
           <p className="text-center text-xs md:text-xs text-gray-500">
             Our travel experts are standing by to help you secure the best deals. 
-            Don't miss out on these limited-time offers!
+            Don&apos;t miss out on these limited-time offers!
           </p>
         </div>
       </div>

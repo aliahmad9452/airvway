@@ -147,11 +147,11 @@ export default function AirportSearch({
         <div className="absolute z-50 w-full min-w-[280px] sm:min-w-[400px] max-w-[95vw] mt-2 bg-white border border-gray-200 rounded-lg shadow-xl animate-in fade-in duration-200">
           <div className="px-4 py-4 text-center">
             <div className="text-gray-700 text-sm mb-3">
-              No airports found for "{query}"
+              No airports found for &ldquo;{query}&rdquo;
             </div>
             <div className="bg-blue-50 border border-blue-200 rounded-lg p-3">
               <p className="text-blue-800 text-xs font-medium mb-2">
-                🎯 Can't find your destination?
+                🎯 Can&apos;t find your destination?
               </p>
               <p className="text-blue-700 text-xs mb-3">
                 Our database may not have all airports. Call our expert agents for assistance with any destination worldwide!

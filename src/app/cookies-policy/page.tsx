@@ -64,7 +64,7 @@ export default function CookiesPolicy() {
                   
                   <ul className="list-disc pl-6 space-y-3 text-gray-700">
                     <li>
-                      <strong>Company</strong> (referred to as either "the Company", "We", "Us" or "Our" in this Cookies Policy) refers to Premium Travel Solutions LLC, 8213 Almont Dr, Plano, TX 75024 United States.
+                      <strong>Company</strong> (referred to as either &ldquo;the Company&rdquo;, &ldquo;We&rdquo;, &ldquo;Us&rdquo; or &ldquo;Our&rdquo; in this Cookies Policy) refers to Premium Travel Solutions LLC, 8213 Almont Dr, Plano, TX 75024 United States.
                     </li>
                     <li>
                       <strong>Cookies</strong> means small files that are placed on Your computer, mobile device or any other device by a website, containing details of your browsing history on that website among its many uses.
@@ -87,7 +87,7 @@ export default function CookiesPolicy() {
                     Type of Cookies We Use
                   </h3>
                   <p className="text-gray-700 leading-relaxed mb-6">
-                    Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close your web browser.
+                    Cookies can be &ldquo;Persistent&rdquo; or &ldquo;Session&rdquo; Cookies. Persistent Cookies remain on your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close your web browser.
                   </p>
                   
                   <p className="text-gray-700 leading-relaxed mb-6">
@@ -133,7 +133,7 @@ export default function CookiesPolicy() {
                   </p>
                   
                   <p className="text-gray-700 leading-relaxed mb-4">
-                    If You'd like to delete Cookies or instruct your web browser to delete or refuse Cookies, please visit the help pages of your web browser.
+                    If You&apos;d like to delete Cookies or instruct your web browser to delete or refuse Cookies, please visit the help pages of your web browser.
                   </p>
 
                   <div className="bg-gray-50 border border-gray-200 rounded-lg p-6 mt-6">
@@ -154,7 +154,7 @@ export default function CookiesPolicy() {
                         <strong>Safari:</strong> <a href="https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac" className="text-blue-600 hover:text-blue-800 underline" target="_blank" rel="noopener noreferrer">https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac</a>
                       </li>
                       <li>
-                        <strong>Other browsers:</strong> Please visit your web browser's official web pages.
+                        <strong>Other browsers:</strong> Please visit your web browser&apos;s official web pages.
                       </li>
                     </ul>
                   </div>

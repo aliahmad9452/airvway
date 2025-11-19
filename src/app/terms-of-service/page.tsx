@@ -31,7 +31,7 @@ export default function TermsOfServicePage() {
               <p>
                 We offer a price match guarantee for identical itineraries. If you find a lower price for the same 
                 flights on the same dates with the same terms, call us at (877) 738-0231 within 24 hours of booking. 
-                We'll match the price and beat it by $25, subject to verification and our terms.
+                We&apos;ll match the price and beat it by $25, subject to verification and our terms.
               </p>
             </section>
 

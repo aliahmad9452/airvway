@@ -9,7 +9,7 @@ export default function PrivacyPolicyPage() {
             <section>
               <h2 className="text-xl font-semibold text-gray-900 mb-3">Information We Collect</h2>
               <p>
-                Premium Travel Solutions LLC ("we," "our," or "us") collects information you provide directly to us, 
+                Premium Travel Solutions LLC (&ldquo;we,&rdquo; &ldquo;our,&rdquo; or &ldquo;us&rdquo;) collects information you provide directly to us, 
                 such as when you call our customer service line at (877) 738-0231, make a booking, or contact us for support.
               </p>
               <p className="mt-2">

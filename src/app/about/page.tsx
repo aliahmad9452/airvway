@@ -80,13 +80,13 @@ export default function AboutPage() {
               </h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
                 Welcome to FlightBooking, your premier travel booking platform! Our mission is straightforward: 
-                to help you explore the world without breaking the bank. "Discover, Journey, and Experience the Extraordinary" 
+                to help you explore the world without breaking the bank. &ldquo;Discover, Journey, and Experience the Extraordinary&rdquo; 
                 is our guiding philosophy.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
                 Our team of seasoned and passionate travel experts is dedicated to helping you find the most competitive 
-                flight deals available. Whether you're planning a romantic getaway, an adventurous solo expedition, or a 
-                family vacation, we're here to support you throughout your entire journey.
+                flight deals available. Whether you&apos;re planning a romantic getaway, an adventurous solo expedition, or a 
+                family vacation, we&apos;re here to support you throughout your entire journey.
               </p>
             </div>
 

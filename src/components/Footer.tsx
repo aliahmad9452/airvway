@@ -52,7 +52,7 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4 text-blue-400">Premium Flight Services</h3>
             <p className="text-gray-300 mb-4">
-              IATA certified travel agency with 15+ years experience. We've helped over 2.3 million customers save on flights.
+              IATA certified travel agency with 15+ years experience. We&apos;ve helped over 2.3 million customers save on flights.
             </p>
             
             {/* Trust Badges */}
@@ -162,7 +162,7 @@ export default function Footer() {
               </div>
               <div className="flex items-start space-x-2">
                 <span className="text-green-400 text-sm">✓</span>
-                <span className="text-gray-300 text-sm">Instant confirmation while you're on the phone</span>
+                <span className="text-gray-300 text-sm">Instant confirmation while you&apos;re on the phone</span>
               </div>
               <div className="flex items-start space-x-2">
                 <span className="text-green-400 text-sm">✓</span>

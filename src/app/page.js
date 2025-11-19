@@ -164,7 +164,7 @@ export default function Home() {
                   Guaranteed Lowest Prices
                 </h3>
                 <p className="text-gray-600 text-sm leading-relaxed mb-4">
-                  Our price match guarantee ensures you get the best deal. Found a lower price elsewhere? We'll beat it by $25 or it's free.
+                  Our price match guarantee ensures you get the best deal. Found a lower price elsewhere? We&apos;ll beat it by $25 or it&apos;s free.
                 </p>
                 <div className="text-sm font-medium text-blue-600">
                   ✓ Price Match Promise ✓ No Hidden Fees
@@ -184,7 +184,7 @@ export default function Home() {
                   Instant Confirmation
                 </h3>
                 <p className="text-gray-600 text-sm leading-relaxed mb-4">
-                  Get your tickets confirmed while you're on the phone. No waiting, no uncertainty - just immediate booking confirmation.
+                  Get your tickets confirmed while you&apos;re on the phone. No waiting, no uncertainty - just immediate booking confirmation.
                 </p>
                 <div className="text-sm font-medium text-green-600">
                   ✓ Immediate Booking ✓ Email Confirmation
@@ -274,7 +274,7 @@ export default function Home() {
                   <span className="ml-2 text-sm text-gray-600">Verified Purchase</span>
                 </div>
                 <p className="text-gray-700 mb-4">
-                  "Called and saved $320 on my family's trip to Hawaii! The agent found deals I couldn't find anywhere online. Booking was done in 5 minutes."
+                  &ldquo;Called and saved $320 on my family&apos;s trip to Hawaii! The agent found deals I couldn&apos;t find anywhere online. Booking was done in 5 minutes.&rdquo;
                 </p>
                 <div className="flex items-center">
                   <div className="w-10 h-10 bg-blue-500 rounded-full flex items-center justify-center text-white font-bold">
@@ -300,7 +300,7 @@ export default function Home() {
                   <span className="ml-2 text-sm text-gray-600">Verified Purchase</span>
                 </div>
                 <p className="text-gray-700 mb-4">
-                  "Best customer service ever! My flight got cancelled and they rebooked me within minutes. No stress, no hassle. Will definitely call again."
+                  &ldquo;Best customer service ever! My flight got cancelled and they rebooked me within minutes. No stress, no hassle. Will definitely call again.&rdquo;
                 </p>
                 <div className="flex items-center">
                   <div className="w-10 h-10 bg-green-500 rounded-full flex items-center justify-center text-white font-bold">
@@ -326,7 +326,7 @@ export default function Home() {
                   <span className="ml-2 text-sm text-gray-600">Verified Purchase</span>
                 </div>
                 <p className="text-gray-700 mb-4">
-                  "I was skeptical about calling, but they saved me $180 on a last-minute flight to New York. The agent was professional and quick."
+                  &ldquo;I was skeptical about calling, but they saved me $180 on a last-minute flight to New York. The agent was professional and quick.&rdquo;
                 </p>
                 <div className="flex items-center">
                   <div className="w-10 h-10 bg-purple-500 rounded-full flex items-center justify-center text-white font-bold">
@@ -450,7 +450,7 @@ export default function Home() {
               Our Guarantees to You
             </h2>
             <p className="text-xl text-gray-600">
-              Book with confidence - we've got you covered
+              Book with confidence - we&apos;ve got you covered
             </p>
           </div>
           
@@ -464,7 +464,7 @@ export default function Home() {
                   </svg>
                 </div>
                 <h3 className="text-lg font-bold text-gray-900 mb-2">Price Match Promise</h3>
-                <p className="text-sm text-gray-600">Find a lower price? We'll beat it by $25 or your ticket is free.</p>
+                <p className="text-sm text-gray-600">Find a lower price? We&apos;ll beat it by $25 or your ticket is free.</p>
               </div>
 
               <div className="text-center">
@@ -496,7 +496,7 @@ export default function Home() {
                   </svg>
                 </div>
                 <h3 className="text-lg font-bold text-gray-900 mb-2">Instant Confirmation</h3>
-                <p className="text-sm text-gray-600">Get your tickets confirmed and emailed while you're on the phone.</p>
+                <p className="text-sm text-gray-600">Get your tickets confirmed and emailed while you&apos;re on the phone.</p>
               </div>
             </div>
           </div>

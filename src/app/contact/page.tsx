@@ -21,7 +21,7 @@ export default function ContactPage() {
               Contact Us
             </h1>
             <p className="text-xl lg:text-2xl text-primary-100 max-w-3xl mx-auto drop-shadow-md">
-              We're here to help you 24/7. Get in touch with our travel experts.
+              We&apos;re here to help you 24/7. Get in touch with our travel experts.
             </p>
           </div>
         </div>
@@ -59,7 +59,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Email Support</h3>
-                    <p className="text-gray-600 mb-2">Send us your queries and we'll respond quickly</p>
+                    <p className="text-gray-600 mb-2">Send us your queries and we&apos;ll respond quickly</p>
                     <a href="mailto:booking@flightbooking.com" className="text-primary-600 hover:text-primary-700 font-medium">
                       booking@flightbooking.com
                     </a>
