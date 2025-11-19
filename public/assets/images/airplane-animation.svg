@@ -1,0 +1,67 @@
+<!-- Airplane SVG Animation -->
+<svg width="300" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .airplane {
+        animation: fly 3s ease-in-out infinite;
+        transform-origin: center;
+      }
+      
+      @keyframes fly {
+        0%, 100% {
+          transform: translateY(0px) rotate(0deg);
+        }
+        25% {
+          transform: translateY(-10px) rotate(-2deg);
+        }
+        50% {
+          transform: translateY(0px) rotate(0deg);
+        }
+        75% {
+          transform: translateY(-8px) rotate(1deg);
+        }
+      }
+      
+      .wing-dots circle {
+        animation: blink 2s infinite;
+      }
+      
+      @keyframes blink {
+        0%, 50%, 100% {
+          opacity: 1;
+        }
+        25%, 75% {
+          opacity: 0.3;
+        }
+      }
+    </style>
+  </defs>
+  
+  <g class="airplane" transform="translate(50, 50)">
+    <!-- Main fuselage -->
+    <path d="M 50 100 Q 70 85 120 85 L 220 85 Q 280 85 290 100 Q 280 115 220 115 L 120 115 Q 70 115 50 100 Z" 
+          fill="none" stroke="#2563eb" stroke-width="3" stroke-linecap="round"/>
+    
+    <!-- Wings -->
+    <path d="M 120 85 Q 100 70 80 75 Q 60 80 70 100 Q 80 120 100 125 Q 120 115 120 100 Z" 
+          fill="none" stroke="#2563eb" stroke-width="3" stroke-linecap="round"/>
+    
+    <!-- Tail -->
+    <path d="M 50 100 Q 30 85 20 90 Q 10 95 15 100 Q 10 105 20 110 Q 30 115 50 100 Z" 
+          fill="none" stroke="#2563eb" stroke-width="3" stroke-linecap="round"/>
+    
+    <!-- Tail fin -->
+    <path d="M 40 100 Q 35 75 30 80 Q 25 85 35 100" 
+          fill="none" stroke="#2563eb" stroke-width="3" stroke-linecap="round"/>
+    
+    <!-- Wing lights/dots -->
+    <g class="wing-dots">
+      <circle cx="240" cy="100" r="3" fill="#3b82f6"/>
+      <circle cx="250" cy="100" r="3" fill="#3b82f6"/>
+      <circle cx="260" cy="100" r="3" fill="#3b82f6"/>
+    </g>
+    
+    <!-- Cockpit windows -->
+    <ellipse cx="270" cy="100" rx="8" ry="6" fill="none" stroke="#2563eb" stroke-width="2"/>
+  </g>
+</svg>
